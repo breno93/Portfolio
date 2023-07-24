@@ -21,14 +21,20 @@ export const Footer = (): JSX.Element => {
           />
           <Box css={{ marginLeft: "$2" }}>
             <Text type="heading4" color="grey5" css={{ marginBottom: "$2" }}>
-              Thank you! {/* <HandEffect /> */}
+              Sobre mim {/* <HandEffect /> */}
             </Text>
             <Text type="body1" color="grey2">
-              Follow me on my social networks and let's talk
+              Opaa! Beleza? Muito prazer! Sou um viajante no mundo dos códigos
+              tentando aprender cada dia um pouquinho mais xD. Minha experiência
+              abrange o desenvolvimento web e móvel. Acredito no poder do
+              trabalho em equipe e na entrega de produtos de qualidade.
+              <br />
+              Como todo bom Dev curto uma jogatina com os amigos, assistir
+              séries e filmes.
             </Text>
           </Box>
         </Flex>
-        <Flex
+        {/* <Flex
           css={{
             flexWrap: "wrap",
             justifyContent: "center",
@@ -62,7 +68,7 @@ export const Footer = (): JSX.Element => {
           >
             <FaLinkedinIn />
           </Button>
-        </Flex>
+        </Flex> */}
       </Container>
     </FooterWrapper>
   );
