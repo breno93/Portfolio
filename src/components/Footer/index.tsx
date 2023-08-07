@@ -24,13 +24,18 @@ export const Footer = (): JSX.Element => {
               Sobre mim {/* <HandEffect /> */}
             </Text>
             <Text type="body1" color="grey2">
-              Opaa! Beleza? Muito prazer! Sou um viajante no mundo dos códigos
-              tentando aprender cada dia um pouquinho mais xD. Minha experiência
-              abrange o desenvolvimento web e móvel. Acredito no poder do
-              trabalho em equipe e na entrega de produtos de qualidade.
+              Sou um Desenvolvedor Web Full Stack, com experiência em projetos
+              envolvendo as tecnologias: HTML| CSS | JavaScript | Typescript|
+              React | NodeJS| Python | DJANGO | TypeORM. Ao longo do meu
+              aprendizado, fui responsável por criar interfaces de usuário
+              interativas e responsivas, APIs funcionais e seguras, entre outros
+              projetos FullStack, tenho vivência em metodologias ágeis como o
+              SCRUM, utilização de ferramentas para otimizar minha efetividade
+              como Trello, Notion entre outros. Em resumo, minha experiência em
+              determinadas tecnologias me permite contribuir de maneira
+              significativa para o desenvolvimento web e móveis modernos e
+              escaláveis.
               <br />
-              Como todo bom Dev curto uma jogatina com os amigos, assistir
-              séries e filmes.
             </Text>
           </Box>
         </Flex>
